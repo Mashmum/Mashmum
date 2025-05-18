@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mashmum Shaikh
+# 👋 Hi, I'm Mashmum
 
 🎓 Full Stack Developer | React | PHP | MySQL | HTML | CSS | JavaScript
 
