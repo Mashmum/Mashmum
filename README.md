@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Mashmum Shaikh
 
-<!--
-**Mashmum/Mashmum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Full Stack Developer | React | PHP | MySQL | HTML | CSS | JavaScript
 
-Here are some ideas to get you started:
+🚀 I love building responsive web applications with clean UI and dynamic features.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Projects:
+- 🎗️ NGO Donation Platform (PHP, MySQL)
+- 🏥 Online Clinic Appointment System
+- 📺 YouTube Clone (React + API)
+- 🔐 Login/Signup Systems
+
+📫 Connect with me:
+[LinkedIn](https://www.linkedin.com/in/mashmumshaikh)
+
+💡 Currently learning: Node.js, APIs, MongoDB, and Vercel deployment.
